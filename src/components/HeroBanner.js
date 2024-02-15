@@ -41,7 +41,6 @@ const HeroBanner = () => (
           color: "#FFF",
           height: "56px",
           right: "0px",
-          fontSize: { lg: "20px", xs: "14px" },
         }}
       >
         Explore Exercises
